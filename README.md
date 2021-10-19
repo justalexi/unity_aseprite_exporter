@@ -1,4 +1,4 @@
-# unity_aseprite_exporter
+# Unity Aseprite Exporter
 Unity plugin to convert aseprite files to png.
 
 I am using Aseprite Animation Workflow (https://assetstore.unity.com/packages/tools/animation/aseprite-animation-workflow-167316), and sometimes stumble upon the need of checking what art is already integrated in the game and what is not. Problem is that file managers can show png, jpg and some other types of graphical files, but not aseprite files. So I have to run Aseprite and open every file manually. Also VCS support in Jetbrains Rider can show changes in graphical files, but again it doesn't support Aseprite.
